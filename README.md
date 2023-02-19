@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi all 👋
+
+Perkenalkan saya **I Komang Tri Cahya Bramantara**
+
+Saya seorang mahasiswa semester 6
+
+Kepoin [Linkedin](https://www.linkedin.com/in/komangbramantara/)-ku ya.
 
 <!--
 **cahya03/cahya03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
