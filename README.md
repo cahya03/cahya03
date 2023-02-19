@@ -1,9 +1,8 @@
 # Hi all 👋
 
-Perkenalkan saya **I Komang Tri Cahya Bramantara**
-
-Saya seorang mahasiswa semester 6
-
+Perkenalkan saya **I Komang Tri Cahya Bramantara**.\
+Saya seorang mahasiswa semester 6.\
+Saya tersertifikasi [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/99P2738HZS9E).\
 Kepoin [Linkedin](https://www.linkedin.com/in/komangbramantara/)-ku ya.
 
 <!--
