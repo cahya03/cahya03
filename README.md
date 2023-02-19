@@ -1,9 +1,10 @@
-# Hi all 👋
+# Hi all👋 I'm Komang.\
 
-Perkenalkan saya **I Komang Tri Cahya Bramantara**.\
-Saya seorang mahasiswa semester 6.\
-Saya tersertifikasi [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/99P2738HZS9E).\
-Kepoin [Linkedin](https://www.linkedin.com/in/komangbramantara/)-ku ya.
+A 6th semester student who obsessed in technology.
+
+📃 I'm certified in [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/99P2738HZS9E).\
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/komangbramantara/).\
+⚡ Fun fact: I love cat🐈
 
 <!--
 **cahya03/cahya03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
